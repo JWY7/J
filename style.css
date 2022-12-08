@@ -90,6 +90,7 @@ header{
   display: grid;
 }
 .pflo-text{
+  color: #5e2819d1;
   font-size: 15px;
   text-align: left;
   padding: 80px 20px 5px;
@@ -111,6 +112,7 @@ header{
 }
 
 .card h5{
+  /* color: #5e2819a3; */
   font-size: 23px;
   margin-bottom: 15px;
 }
